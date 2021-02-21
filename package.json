@@ -15,6 +15,9 @@
   "dependencies": {
     "eslint-plugin-promise": "^4.3.1"
   },
+  "peerDependencies": {
+    "eslint": "^7.20.0"
+  },
   "devDependencies": {
     "eslint": "^7.20.0",
     "husky": "^5.0.9",
