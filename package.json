@@ -9,9 +9,6 @@
   "repository": "git@github.com:vasiliicuhar/eslint-preset.git",
   "license": "MIT",
   "type": "commonjs",
-  "scripts": {
-    "postinstall": "husky install"
-  },
   "exports": {
     "./presets/*": "./presets/*.js",
     "./mixins/*": "./mixins/*.js"
