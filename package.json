@@ -2,6 +2,7 @@
   "name": "@vasiliicuhar/eslint-preset",
   "version": "0.0.1",
   "description": "Sensible ESLint defaults for JS projects",
+  "keywords": ["eslint", "eslint-config"],
   "repository": "git@github.com:vasiliicuhar/eslint-preset.git",
   "license": "MIT",
   "type": "commonjs",
