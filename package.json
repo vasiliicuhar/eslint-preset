@@ -1,6 +1,6 @@
 {
   "name": "@vasiliicuhar/eslint-preset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sensible ESLint defaults for JS projects",
   "keywords": [
     "eslint",
