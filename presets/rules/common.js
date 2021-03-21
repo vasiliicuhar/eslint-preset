@@ -1,5 +1,5 @@
 module.exports = {
-  plugins: ["promise"],
+  plugins: ["promise", "prefer-let"],
 
   rules: {
     "promise/always-return": "error",
@@ -13,6 +13,8 @@ module.exports = {
     "promise/no-new-statics": "error",
     "promise/no-return-in-finally": "error",
     "promise/valid-params": "error",
+
+    "prefer-let/prefer-let": "error",
 
     "max-lines": ["warn", { max: 2000 }],
 
