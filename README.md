@@ -7,7 +7,7 @@
 ---
 
 <!-- prettier-ignore-start -->
-[![build][build-badge]][build]
+[![publish][publish-badge]][publish]
 [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
@@ -39,9 +39,9 @@ module.exports = {
 [version-badge]: https://img.shields.io/npm/v/@vasiliicuhar/eslint-preset.svg?style=flat-square
 [package]: https://www.npmjs.com/package/@vasiliicuhar/eslint-preset
 [downloads-badge]: https://img.shields.io/npm/dm/@vasiliicuhar/eslint-preset.svg?style=flat-square
-[build-badge]: https://github.com/vasiliicuhar/eslint-preset/actions/workflows/build.yml/badge.svg
+[publish-badge]: https://github.com/vasiliicuhar/eslint-preset/actions/workflows/publish.yml/badge.svg
 [npmtrends]: http://www.npmtrends.com/@vasiliicuhar/eslint-preset
 [license-badge]: https://img.shields.io/npm/l/@vasiliicuhar/eslint-preset.svg?style=flat-square
 [license]: /LICENSE
-[build]: https://github.com/vasiliicuhar/eslint-preset/actions/workflows/build.yml
+[publish]: https://github.com/vasiliicuhar/eslint-preset/actions/workflows/publish.yml
 <!-- prettier-ignore-end -->
